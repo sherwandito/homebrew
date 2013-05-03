@@ -17,3 +17,5 @@ class Gphoto2 < Formula
     system "make install"
   end
 end
+list config
+
