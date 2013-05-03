@@ -1,3 +1,4 @@
+gphoto2 --list-config
 require 'formula'
 
 class Gphoto2 < Formula
